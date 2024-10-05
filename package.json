@@ -1,0 +1,17 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "king",
+  "main": "1-test.js",
+  "scripts": {
+    "test": "start"
+  },
+  "keywords": [
+    "go"
+  ],
+  "author": "lodhi",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
